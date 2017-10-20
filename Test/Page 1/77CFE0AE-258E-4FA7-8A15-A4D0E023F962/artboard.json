@@ -39,11 +39,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
       "id": "16F942E0-EC04-492D-983A-942F0D3FB702"
+    },
+    {
+      "class": "text",
+      "id": "7710993C-7D4D-4969-8D2E-95CCC121E2E8"
     }
   ],
   "name": "The best artboard ever",
