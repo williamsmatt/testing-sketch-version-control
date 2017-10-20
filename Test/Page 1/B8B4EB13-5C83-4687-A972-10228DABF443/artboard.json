@@ -1,6 +1,13 @@
 {
-  "_class": "page",
-  "do_objectID": "c44910f0-b5cf-11e7-bdca-01b1dffb1d55",
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "B8B4EB13-5C83-4687-A972-10228DABF443",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,18 +20,20 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 257,
+    "width": 444,
+    "x": 245,
+    "y": 639
   },
-  "hasClickThrough": true,
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -333,
+    "base": 0,
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -33,16 +42,13 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "A718463E-4DB0-4FFC-A135-1E09EE17FFEC"
-    },
-    {
-      "class": "artboard",
-      "id": "B8B4EB13-5C83-4687-A972-10228DABF443"
+      "class": "bitmap",
+      "id": "865A80D2-83D4-447D-AE5D-91E5770FC1C9"
     }
   ],
-  "name": "Page 1",
-  "nameIsFixed": false,
+  "name": "Aviato",
+  "nameIsFixed": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -55,7 +61,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -265,
+    "base": 0,
     "guides": [
     ]
   }
