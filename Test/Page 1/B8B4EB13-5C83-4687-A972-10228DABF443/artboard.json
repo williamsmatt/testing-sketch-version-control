@@ -20,13 +20,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 257,
+    "height": 513,
     "width": 444,
     "x": 245,
     "y": 639
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -44,6 +44,10 @@
     {
       "class": "bitmap",
       "id": "865A80D2-83D4-447D-AE5D-91E5770FC1C9"
+    },
+    {
+      "class": "text",
+      "id": "3902F9E5-D405-4046-A58D-3385E290BFEB"
     }
   ],
   "name": "Aviato",
